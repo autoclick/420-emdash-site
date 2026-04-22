@@ -19,9 +19,7 @@
 		},
 	],
 
-  "alias": {
-    "node-fetch": "./fetch-polyfill",
-  },
+
 
 	// Worker Loader for plugin sandboxing
 	
