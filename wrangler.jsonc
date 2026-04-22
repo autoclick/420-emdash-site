@@ -18,11 +18,11 @@
 			"bucket_name": "420-emdash-media","preview_bucket_name": "420-emdash-media",
 		},
 	],
-{
+
   "alias": {
     "node-fetch": "./fetch-polyfill",
   },
-}
+
 	// Worker Loader for plugin sandboxing
 	
 }
