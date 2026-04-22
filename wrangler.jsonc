@@ -19,9 +19,5 @@
 		},
 	],
 	// Worker Loader for plugin sandboxing
-	"worker_loaders": [
-		{
-		
-		},
-	],
+	
 }
