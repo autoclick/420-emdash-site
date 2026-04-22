@@ -18,7 +18,12 @@
 			"bucket_name": "420-emdash-media","preview_bucket_name": "420-emdash-media",
 		},
 	],
-
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "659221a609b041d8bad1f59a78541f45"
+		},
+	],
 
 
 	// Worker Loader for plugin sandboxing
